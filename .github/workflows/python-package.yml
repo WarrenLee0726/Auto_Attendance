@@ -3,7 +3,7 @@
 
 name: Auto_Attendance_GitHub_Action
 
-on:
+on: 
   workflow_dispatch:
   push:
   schedule:
